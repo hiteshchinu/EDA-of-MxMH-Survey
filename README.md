@@ -1,10 +1,10 @@
 # Exploratory Data Analysis of Music and Mental Health Survey
 
-This repository contains code for an Exploratory Data Analysis (EDA) of a survey dataset related to music and mental health. The analysis was conducted using Python in a Kaggle notebook.
+## Overview
+This repository contains the dataset and analysis code for exploring correlations between music preferences and self-reported mental health in the MxMH survey. The aim is to identify potential relationships between an individual's music taste and their mental health status.
 
 ## Dataset
-
-The dataset used for this analysis is the "MXMH Survey Results" dataset, which contains responses from participants about their music preferences, streaming habits, mental health, and other related factors.
+The dataset comprises responses collected through the MxMH survey, where participants provided information on various aspects related to music consumption and mental health. You can access the dataset directly on Kaggle [here](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results). To use the dataset in a Kaggle notebook, you can copy the notebook and edit it as needed.
 
 ## Analysis Overview
 
@@ -23,15 +23,19 @@ The analysis includes the following steps:
 - `README.md`: This file, providing an overview of the repository.
 - Other files: Additional files generated during the analysis process.
 
-## Usage
+## How to Use
+To replicate the analysis or explore the dataset further on Kaggle:
+1. Click on the [Kaggle notebook](https://www.kaggle.com/code/khandelwalhitesh/eda-of-mxmh-survey) link.
+2. Copy the notebook to your Kaggle account.
+3. Open the copied notebook and run the cells to execute the analysis and generate insights.
+4. Feel free to edit the notebook and customize the analysis according to your requirements.
 
-To run the analysis notebook locally, you can download the `music_and_mental_health_survey.ipynb` file and open it in a Jupyter environment. Make sure you have the necessary Python libraries installed to execute the code.
-
-## Contributions
-
-Contributions to improve the analysis, fix issues, or add new insights are welcome. Feel free to fork this repository, make your changes, and submit a pull request.
+## Contributors
+- [Hitesh Khandelwal](https://github.com/hiteshchinu/) - Data Analyst
 
 ## License
-
 This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+Special thanks to [crasgaitis](https://github.com/crasgaitis/) for managing the data collection process and making the dataset available for analysis.
 
