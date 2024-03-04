@@ -29,10 +29,10 @@ To replicate the analysis or explore the dataset further on Kaggle:
 2. Copy the notebook to your Kaggle account.
 3. Open the copied notebook and run the cells to execute the analysis and generate insights.
 4. Feel free to edit the notebook and customize the analysis according to your requirements.
-
+<!--
 ## Contributors
 - [Hitesh Khandelwal](https://github.com/hiteshchinu/) - Data Analyst
-
+-->
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
