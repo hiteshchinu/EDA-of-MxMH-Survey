@@ -20,7 +20,6 @@ The analysis includes the following steps:
 
 - `music_and_mental_health_survey.ipynb`: Jupyter notebook containing the EDA code.
 - `cleaned_data.xlsx`: Cleaned dataset after preprocessing.
-- `README.md`: This file, providing an overview of the repository.
 - Other files: Additional files generated during the analysis process.
 
 ## How to Use
